@@ -71,3 +71,12 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+.save-icon {
+  height: 40px;
+  width: 40px;
+  margin-top: 20px;
+  margin-left: 10px;
+  top:  40%;
+  left: 40%;
+  position: center;
+}
