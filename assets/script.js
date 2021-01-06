@@ -47,7 +47,7 @@ $(document).ready(function () {
 });
 
 function storPlans() {
-  for (var i = 1; i <= 12; i++) {
+  for (var i = 1; i <= 17; i++) {
     $("#" + "row-" + i).val(localStorage.getItem(i));
   }
 }
